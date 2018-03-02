@@ -1,0 +1,32 @@
+#stars{
+  background-color: blue;
+  height: 280px;
+  width: 380px;
+}
+#topFlag{
+  display: flex;
+}
+.topRed{
+  width:745px;
+  height: 40px;
+  background-color: red;
+}
+.topWhite{
+  width:745px;
+  height: 40px;
+  background-color: white;
+}
+.bottomRed{
+  width:1125px;
+  height: 40px;
+  background-color: red;
+}
+.bottomWhite{
+  width:1125px;
+  height: 40px;
+  background-color: white;
+}
+/* #bottomFlag{
+  display: flex;
+  flex-direction: column;
+} */
